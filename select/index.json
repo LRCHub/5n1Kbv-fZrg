@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ジュリアに傷心",
+  "base_artist": "チェッカーズ",
+  "createdAt": "2026-02-11T15:01:41.618581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジュリアに傷心",
+      "artist": "The Checkers",
+      "has_synced": true,
+      "path": "select/01_ジュリアに傷心_The_Checkers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジュリアに傷心",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/02_ジュリアに傷心_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジュリアに傷心",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/03_ジュリアに傷心_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジュリアに傷心 - ～2025 ver.～",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/04_ジュリアに傷心_-_~2025_ver.~_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジュリアに傷心",
+      "artist": "チェッカーズ",
+      "has_synced": false,
+      "path": "select/pl_01_ジュリアに傷心_チェッカーズ.txt"
+    }
+  ]
+}
